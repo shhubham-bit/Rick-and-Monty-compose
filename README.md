@@ -1,7 +1,7 @@
 apk Link: https://drive.google.com/file/d/1hel4d0lRsl-i2djR8s2AqHYg2I7dO21i/view?usp=drive_link
 
-## Rick and Monty compose
-Rick and monty compose application with character listing and character detail screens.
+## Rick and Morty compose
+Rick and morty compose application with character listing and character detail screens.
 
 ## Character Listing 
 <img width="350" alt="Screenshot 2024-08-31 at 8 09 57 PM" src="https://github.com/user-attachments/assets/05195385-0ddd-4367-919e-8e38c8cdb7a3">
